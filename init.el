@@ -13,7 +13,8 @@
 (tool-bar-mode -1)
 (menu-bar-mode -1)
 
-
+(setq auto-save-default nil)
+(setq make-backup-files nil)
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
